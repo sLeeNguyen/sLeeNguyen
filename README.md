@@ -44,6 +44,7 @@
 - C/C++
 - Java
 - CI/CD with Gitlab, Github Actions
+- Docker
 <!-- End My skills -->
 
 ### 📚&nbsp; What I'm currently learning
