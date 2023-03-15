@@ -3,24 +3,25 @@
 <h3 align="center">
   Hi there!
   <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="24" />
+  I'm Ngoc (leenguyen)
 </h3>
 
 <p align="left">
-  I'm <b>Ngoc</b> (leenguyen), Blockchain Web Developer from Vietnam, who loves open source, and is currently working at <a href="https://tovchain.io/" rel="nofollow">ToVChain JSC</a>. I have experience in building and deploying decentralized web applications (DApps) that interact with blockchain networks.
+  I'm a Blockchain Researcher & Software Developer from Vietnam, who loves open source, and is currently working at <a href="https://tovchain.io/" rel="nofollow">ToVChain JSC</a>.
 </p>
 <p align="left">
 </p>
 
 <!-- Start Quick overview -->
 
-### Quick overview
+<!-- ### Quick overview
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sleenguyen&show_icons=true&locale=en&hide_border=true" alt="sleenguyen" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sLeeNguyen&layout=compact&langs_count=6&hide=css,html&hide_border=true" alt="top languages" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleenguyen" alt="sleenguyen"/>
-</div>
+</div> -->
 
 <!-- End Quick overview -->
 
@@ -28,7 +29,7 @@
 
 <!-- Start My skills -->
 
-### 📜&nbsp; My skills
+<!-- ### 📜&nbsp; My skills
 
 #### 🛠️&nbsp; Web technologies
 
@@ -44,12 +45,13 @@
 - C/C++
 - Java
 - CI/CD with Gitlab, Github Actions
-- Docker
+- Docker -->
 <!-- End My skills -->
 
 ### 📚&nbsp; What I'm currently learning
 
 - Diving into Blockchain field
+- Master of CS at [HUST](https://hust.edu.vn/en)
 
 ### ❤️&nbsp; Connect with me
 
@@ -70,14 +72,14 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://fb.com/bestboss000" target="_blank" rel="noreferrer noopener"
+<!--   <a href="https://fb.com/bestboss000" target="_blank" rel="noreferrer noopener"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="bestboss000"
       height="30"
       width="40"
-  /></a>
+  /></a> -->
   <a href="https://www.hackerrank.com/leenguyen_vn" target="_blank" rel="noreferrer noopener"
     ><img
       align="center"
