@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  I'm a Blockchain Researcher & Software Developer from Vietnam, who loves open source, and is currently working at <a href="https://tovchain.io/" rel="nofollow">ToVChain JSC</a>.
+  I'm a Blockchain Researcher & Software Developer from Vietnam, who loves open source, and is currently working at <a href="https://tovchain.vn/" rel="nofollow">ToVChain JSC</a>.
 </p>
 <p align="left">
 </p>
