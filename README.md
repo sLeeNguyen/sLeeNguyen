@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  I'm a Blockchain Researcher & Software Developer from Vietnam, who loves open source, and is currently working at <a href="https://tovchain.vn/" rel="nofollow">ToVChain JSC</a>.
+  I'm a passionate Blockchain Researcher and Software Developer hailing from the vibrant landscape of Vietnam. With a profound admiration for open source ethos, I am deeply entrenched in the world of blockchain technology, unraveling its complexities and harnessing its potential. Also, I've honed my skills in crafting and deploying web applications, specializing particularly in the realm of Decentralized Applications (DApps). Currently, I find myself immersed in the dynamic atmosphere of <a href="https://nippylabs.com/" rel="nofollow">NippyLabs</a>, where I channel my expertise and enthusiasm to drive groundbreaking projects forward.
 </p>
 <p align="left">
 </p>
@@ -56,6 +56,14 @@
 ### ❤️&nbsp; Connect with me
 
 <p align="left">
+<!--   <a href="https://t.me/leenguyen_99" target="_blank" rel="noreferrer noopener"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg"
+      alt="leenguyen_99"
+      height="30"
+      width="40"
+  /></a> -->
   <a href="https://twitter.com/leenguy30941044" target="_blank" rel="noreferrer noopener"
     ><img
       align="center"
