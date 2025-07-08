@@ -7,7 +7,7 @@
 </h3>
 
 <p align="left">
-  I'm a passionate Blockchain Researcher and Software Developer hailing from the vibrant landscape of Vietnam. With a profound admiration for open source ethos, I am deeply entrenched in the world of blockchain technology, unraveling its complexities and harnessing its potential. Also, I've honed my skills in crafting and deploying web applications, specializing particularly in the realm of Decentralized Applications (DApps). Currently, I find myself immersed in the dynamic atmosphere of <a href="https://nippylabs.com/" rel="nofollow">NippyLabs</a>, where I channel my expertise and enthusiasm to drive groundbreaking projects forward.
+  I’m a Blockchain Researcher and Software Developer from Vietnam with a strong passion for open source and decentralized technologies. I specialize in blockchain systems and have experience building and deploying web applications, particularly Decentralized Applications (DApps). Currently, I’m part of the team at <a href="https://nippylabs.com/" rel="nofollow">NippyLabs</a>, where I contribute to innovative projects in the blockchain space.
 </p>
 <p align="left">
 </p>
